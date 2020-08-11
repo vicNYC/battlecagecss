@@ -13,7 +13,7 @@ module.exports = {
   entry,
   output,
   devtool: "eval-source-map",
-  mode: 'development',
+  //   mode: "development",
   module: {
     loaders: [
       {
